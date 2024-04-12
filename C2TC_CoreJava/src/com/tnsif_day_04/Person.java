@@ -1,4 +1,4 @@
-package com.tnsif_day_4;
+package com.tnsif_day_04;
 //Demo on "HASA" Association
 public class Person {
 	
